@@ -14,7 +14,8 @@ The project includes a GUI for visualizing the solving process.
 1. Run the project using `python main.py`
 2. The GUI will open, displaying the grid and the current puzzle.
 
-[![GUI](imgs/board.png)](imgs/board.png)
+<img src="imgs/board.png" width="600" />
+
 
 3. Use the following keys to control the simulation:
    - `spacebar`: Start/stop the solver
