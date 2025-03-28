@@ -1,8 +1,6 @@
 # CS131 A4 Sudoku Solver - WIP
 #### Bix von Goeler
 
-_A Project for the Class CS131 Artificial Intellegence at Tufts University_
-
 This project implements a Sudoku solver by turning the puzzle into a constraint satisfaction problem (CSP).
 The project includes a GUI for visualizing the solving process.
 
