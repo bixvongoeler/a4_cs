@@ -21,7 +21,7 @@ class SudokuDataset:
     @staticmethod
     def string_to_grid(string):
         # Convert string to list of integers
-
         grid = np.array([int(char) for char in string], dtype=np.int8)
+
         # Reshape to 9x9 grid
         return grid.reshape(9, 9)
